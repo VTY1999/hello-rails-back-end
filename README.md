@@ -1,73 +1,72 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hell-rails-backend
 
-> Description the project.
+> The backend part of the greeting app.
 
+# Link to frontend repo
+
+[Frontend](https://github.com/VTY1999/hello-react-front-end.git)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- Rails
+- PostgreSQL
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+- A text editor(preferably Visual Studio Code)
 
 ### Install
 
+- [Git](https://git-scm.com/downloads)
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [Node.js](https://nodejs.org/en/download/)
+- `gem install rails`
+
 ### Usage
 
-### Run tests
+#### Clone this repository
 
-### Deployment
+```bash
+git clone
+$ https://github.com/VTY1999/hello-rails-back-end.git
+$ cd hello-rails-back-end
+```
 
+#### Run project
 
+```bash
+- bundle install
+- npm install
+- rails s
+- rails db:create db:migrate db:seed
+```
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Francis Verissimo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/VTY1999)
+- Twitter: [@twitterhandle](https://twitter.com/verissimoty?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-o-verissimo/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/netman5/hello-rails-back-end/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
