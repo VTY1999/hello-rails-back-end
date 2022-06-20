@@ -61,7 +61,7 @@ $ cd hello-rails-back-end
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/netman5/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/VTY1999/hello-rails-back-end/issues).
 
 ## Show your support
 
